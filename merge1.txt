@@ -1,1 +1,6 @@
-hloo cutie
+<<<<<<< HEAD
+hii baby
+=======
+
+hii baby
+>>>>>>> branch1
